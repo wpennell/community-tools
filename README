@@ -1,0 +1,8 @@
+install pandoc: http://johnmacfarlane.net/pandoc/installing.html
+
+workon eecs
+cd slideshow
+python setup.py develop
+pserve development.ini --reload --monitor-restart
+
+Then... open a browser on: http://localhost:6543
