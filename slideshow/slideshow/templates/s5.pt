@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> 
+<head> 
+  <meta name="copyright" 
+   content="Copyright &#169; {copyright}" /> 
+  <!-- metadata -->
+  <meta name="generator" content="S5" />
+  <meta name="version" content="S5 1.1" />
+  <meta name="presdate" content="20111215" />
+  <meta name="author" content="Aaron Culich" />
+  <meta name="company" content="Department of Electrical Engineering and Computer Sciences, University of California, Berkeley" />
+  <!-- configuration parameters -->
+  <meta name="defaultView" content="slideshow" />
+  <meta name="controlVis" content="hidden" />
+  <!-- style sheet links -->
+  <link rel="stylesheet" href="static/s5/slides.css" type="text/css" media="projection" id="slideProj" />
+  <link rel="stylesheet" href="static/s5/outline.css" type="text/css" media="screen" id="outlineStyle" />
+  <link rel="stylesheet" href="static/s5/print.css" type="text/css" media="print" id="slidePrint" />
+  <link rel="stylesheet" href="static/s5/opera.css" type="text/css" media="projection" id="operaFix" />
+  <!-- S5 JS -->
+  <script src="static/s5/slides.js" type="text/javascript"></script>
+  <style type="text/css"> 
+    <!-- your custom style rules --> 
+  </style> 
+</head>
+<body>
+<div tal:replace="content"/>
+</body>
+</html>
