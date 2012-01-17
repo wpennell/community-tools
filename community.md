@@ -21,9 +21,11 @@ ServerFault
 =============
 - and StackOverflow
 - and the whole StackExchange family
+- Wendy: talk about experiences
 
 Github
 ======
+- Wendy: what is git vs github?
 
 Blogs / Google Reader
 =====================
