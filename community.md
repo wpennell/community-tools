@@ -16,9 +16,9 @@ Themes Of Community Tools
 The Tools
 ====================
 - StackExchange
--   StackOverflow for Programing
--   ServerFault for Systems Administration
--   plus 76 others!
+- StackOverflow for Programing
+- ServerFault for Systems Administration
+- plus 76 others!
 - GitHub (git)
 - Google Suite
 - Tagging
@@ -29,13 +29,18 @@ The Tools
 
 ServerFault
 =============
-- and StackOverflow
-- and the whole StackExchange family
-- Wendy: talk about experiences
+- serverfault.com
+- uses OpenID for login
+- Pose Questions
+- Answer Questions
+- Reputation
+- Living Documentation
 
 Github
 ======
-- Wendy: what is git vs github?
+- git
+- GitHub github.com
+- distributed environment
 
 Blogs / Google Reader
 =====================
