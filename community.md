@@ -2,7 +2,7 @@
 % Aaron Culich & Wendy Pennell
 % January 20, 2012
 
-Themes Of Community Tools
+Community Tools Are;
 ====================
 - Simple
 - Self Contained
