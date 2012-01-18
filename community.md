@@ -25,19 +25,16 @@ Tools
 
 More Tools - StackExchange
 ====================
-- stackexchange.com
-- Stack Exchange is a fast-growing network of 76 question and answer sites on diverse topics from software programming to cooking to photography and gaming.
+- stackexchange.com StackExchange is a fast-growing network of 76 question and answer sites on diverse topics from software programming to cooking to photography and gaming.
+- All the StackExchange sites use OpenID for login
+- openid.net OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords.
 - StackOverflow for Programing
 - ServerFault for Systems Administration
-- plus 76 others!
-- Take some time and explore
+- plus 76 others!  Take some time and explore!
 
-ServerFault
+How a StackExchange Account works
 =============
-- serverfault.com
-- uses OpenID for login
-- OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords.
-- openid.net
+- Make a login
 - Pose Questions
 - Answer Questions
 - Build a Reputation
