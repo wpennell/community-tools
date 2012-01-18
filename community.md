@@ -2,23 +2,23 @@
 % Aaron Culich & Wendy Pennell
 % January 20, 2012
 
-Themes Common to Community Tools
+Themes Of Community Tools
 ====================
-- Simple +
-- Self Contained +
-- Visible +
-- Distributed +
-- Permissive +
-- Connected +
-- Easy Exit +
-- = Beautiful
+- Simple
+- Self Contained
+- Visible
+- Distributed
+- Permissive
+- Connected
+- Easy Exit
+- Beautiful
 
 The Tools
 ====================
 - StackExchange
-	StackOverflow for Programing
-	ServerFault for Systems Administration
-	plus 76 others!
+-   StackOverflow for Programing
+-   ServerFault for Systems Administration
+-   plus 76 others!
 - GitHub (git)
 - Google Suite
 - Tagging
@@ -51,7 +51,7 @@ Tagging
 
 IRC
 ===
-freenode.net
+- freenode.net
 
 Instant Messaging
 =================
@@ -63,4 +63,4 @@ Markdown
 
 Feeds
 =====
-RSS vs Atom
+- RSS vs Atom
