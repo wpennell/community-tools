@@ -13,12 +13,8 @@ Themes Of Community Tools
 - Easy Exit
 - Beautiful
 
-The Tools
+Tools
 ====================
-- StackExchange
-- StackOverflow for Programing
-- ServerFault for Systems Administration
-- plus 76 others!
 - GitHub (git)
 - Google Suite
 - Tagging
@@ -27,20 +23,27 @@ The Tools
 - Markdown
 - Feeds
 
+More Tools - StackExchange
+====================
+- stackexchange.com
+- StackOverflow for Programing
+- ServerFault for Systems Administration
+- plus 76 others!
+
 ServerFault
 =============
 - serverfault.com
 - uses OpenID for login
 - Pose Questions
 - Answer Questions
-- Reputation
+- Build a Reputation
 - Living Documentation
 
 Github
 ======
-- git
+- git is a distributed revision control system with an emphasis on speed.
 - GitHub github.com
-- distributed environment
+- edit from desktop or website
 
 Blogs / Google Reader
 =====================
