@@ -15,7 +15,7 @@ Community Tools Are;
 
 Tools
 ====================
-- GitHub (git)
+- GIT & GitHub
 - Google Suite
 - Tagging
 - IRC
@@ -40,23 +40,22 @@ How a StackExchange Account works
 - Build a Reputation
 - Living Documentation
 
-Github
+GIT & Github
 ======
 - git is a distributed revision control system.  git-scm.com
 - GitHub github.com is a web-based hosting service for projects that use the Git revision control system.
-
-- A distributed computer system consists of multiple software components that are on multiple computers, but run as a single system.
-
 - download and install git git-scm.com/download
-- Crate a login on GitHub (requires ssh key)
+- Create a login on GitHub (requires ssh key)
 - Create a local git repository
 - Push the local git repository to GitHub and share it
-- Pull any repository you are interested in adding to
+- Pull any repository you are interested in developing
 - Work on your local copy from either your desktop or the web
 - Push when you are ready
 
 Blogs / Google Reader
 =====================
+- 
+
 
 Google Groups
 =============
