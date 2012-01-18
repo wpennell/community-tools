@@ -2,21 +2,30 @@
 % Aaron Culich & Wendy Pennell
 % January 20, 2012
 
-Cross-cutting Themes
+Themes Common to Community Tools
 ====================
-- Ugly
-- Simple
-- Self-contained
-- Visible
-- Distributed
-- Permissive
-- Connected
-- Easy Exit
-- Beautiful
+- Simple +
+- Self Contained +
+- Visible +
+- Distributed +
+- Permissive +
+- Connected +
+- Easy Exit +
+- = Beautiful
 
-When to Use What?
-=================
-- Expecations of availability?
+The Tools
+====================
+- StackExchange
+	StackOverflow for Programing
+	ServerFault for Systems Administration
+	plus 76 others!
+- GitHub (git)
+- Google Suite
+- Tagging
+- IRC
+- Instant Messaging
+- Markdown
+- Feeds
 
 ServerFault
 =============
