@@ -26,14 +26,18 @@ Tools
 More Tools - StackExchange
 ====================
 - stackexchange.com
+- Stack Exchange is a fast-growing network of 76 question and answer sites on diverse topics from software programming to cooking to photography and gaming.
 - StackOverflow for Programing
 - ServerFault for Systems Administration
 - plus 76 others!
+- Take some time and explore
 
 ServerFault
 =============
 - serverfault.com
 - uses OpenID for login
+- OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords.
+- openid.net
 - Pose Questions
 - Answer Questions
 - Build a Reputation
@@ -41,9 +45,18 @@ ServerFault
 
 Github
 ======
-- git is a distributed revision control system with an emphasis on speed.
-- GitHub github.com
-- edit from desktop or website
+- git is a distributed revision control system.  git-scm.com
+- GitHub github.com is a web-based hosting service for projects that use the Git revision control system.
+
+- A distributed computer system consists of multiple software components that are on multiple computers, but run as a single system.
+
+- download and install git git-scm.com/download
+- Crate a login on GitHub (requires ssh key)
+- Create a local git repository
+- Push the local git repository to GitHub and share it
+- Pull any repository you are interested in adding to
+- Work on your local copy from either your desktop or the web
+- Push when you are ready
 
 Blogs / Google Reader
 =====================
