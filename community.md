@@ -12,23 +12,28 @@ Tools
 - Markdown
 - Feeds
 
-More Tools - StackExchange
+StackExchange
 ====================
-- stackexchange.com StackExchange is a fast-growing network of 76 question and answer sites on diverse topics from software programming to cooking to photography and gaming.
+- Started as stackoverflow.com
+- Grew into StackExchange, a fast-growing network of 76+ question and answer sites
 - All the StackExchange sites use OpenID for login
 - openid.net OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords.
 - StackOverflow for Programing
 - ServerFault for Systems Administration
+- Also sites for Cooking, Home Improvement, and most important: Homebrew! :)
 - plus 76 others!  Take some time and explore!
 
-How a StackExchange Account works
+How StackExchange works
 =============
-- Make a login
+- Login with OpenID
 - Pose Questions
 - Answer Questions
-- Build a Reputation
+- Build Reputation
 - Living Documentation
-- Edit tags
+- Posing and answering questions builds your reputation
+- Reputation is **not** just fake points, it is a resume builder!
+- Hiring managers **will** ask you for your stackexchange & github
+  accounts! (Careers 2.0)
 
 GIT & Github
 ============
@@ -36,24 +41,27 @@ GIT & Github
 - GitHub github.com is a web-based hosting service for projects that use the Git revision control system.
 - download and install git git-scm.com/download
 - Create a login on GitHub (requires ssh key)
-- Create a local git repository
-- Push the local git repository to GitHub and share it
-- Pull any repository you are interested in developing
+- Fork me! Fork any repository you are interested in
 - Work on your local copy from either your desktop or the web
 - Push when you are ready
 
 Blogs / Google Reader
 =====================
-- Reader Interface
-- Use Shortcut keys
-- Subscribe the hard way
-- Statistics
-- use Chrome
-- Install plugin
-- Subscribe the easy way
-- Tagging
-- Search blogs
-- Share Bundle
+- Keeping up-to-date on blogs is a time consuming chore
+- **BUT** we all need to do it to keep up with the fast pace of technology!
+- Desktop-based feed readers just don't cut it
+- Google Reader is a much easier way to organize your blogs
+- Star important items, tag them, track what you want
+- See subscription statistics
+- Recommendations for similar items
+- Easily share interesting articles (Bundles & BlogRolls!)
+- Search within a subset of **your** subscribed blogs
+
+Blog Challenge
+==============
+- For the next 12 months, join me in writing one blog entry per month
+- Write about the most interesting technical thing you've discovered
+  each month
 
 Google Groups
 =============
@@ -63,21 +71,21 @@ Google Groups
 - Reduces load on CalMail!
 - Subscribe to just the threads you care about
 
+IRC
+===
+- freenode.net
+- Vertical Communities
+- /join #mysql or #python or #makeupyourown
+- Rescued CalMail
+
 Instant Messaging
 =================
-- GoogleTalk, AIM, Yahoo, etc
+- XMPP, GoogleTalk, AIM, Yahoo, etc
 - Rolls all protocols into one interface (even IRC)
 - Pidgin for Linux & Windows
 - iChat/Adium for Mac & iPhone/iPad
 - Voice & Video support
 - Integration with Google Voice
-
-IRC
-===
-- freenode.net
-- Vertical Communities
-- Micro Communities
-- Rescued CalMail
 
 Community Values
 ====================
