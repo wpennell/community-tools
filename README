@@ -1,8 +1,8 @@
+install python 2.7: http://python.org/getit/
 install pandoc: http://johnmacfarlane.net/pandoc/installing.html
 
-workon eecs
-cd slideshow
-python setup.py develop
-pserve development.ini --reload --monitor-restart
+On Linux & Mac OS, type: make
+
+On Windows: someone please write a batch file based on the Makefile in this directory
 
 Then... open a browser on: http://localhost:6543
