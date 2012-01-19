@@ -2,9 +2,6 @@ import os
 
 from easyprocess import EasyProcess
 
-from slideshow.models import DBSession
-from slideshow.models import MyModel
-
 class to_html(object):
     def __init__(self, content):
         self.html = content
@@ -30,5 +27,5 @@ def my_view(request):
 
     h = to_html(result)
     return {'title':"""\
-If you don't know SSH, then you don't know IT!
+Community Tools
 """, 'content': h}
