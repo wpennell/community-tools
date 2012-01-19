@@ -55,40 +55,32 @@ Blogs / Google Reader
 - Search blogs
 - Share Bundle
 
-
 Google Groups
 =============
 - Replaces mailing lists
+- Participate in the discussion without getting the email
 - Reduces email clutter
 - Reduces load on CalMail!
-- but can look just like a mailing list
-- subscribe to just the threads you care about
+- Subscribe to just the threads you care about
 
-Tagging
-=======
-
-Messaging
-=========
- - IRC
- - Instant Messaging (GoogleTalk, AIM, Yahoo, etc)
+Instant Messaging
+=================
+- GoogleTalk, AIM, Yahoo, etc
+- Rolls all protocols into one interface (even IRC)
+- Pidgin for Linux & Windows
+- iChat/Adium for Mac & iPhone/iPad
+- Voice & Video support
+- Integration with Google Voice
 
 IRC
 ===
 - freenode.net
-- vertical communities
-- micro communities
+- Vertical Communities
+- Micro Communities
+- Rescued CalMail
 
-Instant Messaging
-=================
-- Adium / Pidgin
-- iChat?
-- Rolls all protocols into one interface (even IRC)
-- Voice & Video support
-- Integration with Google Voice
-
-Community Tools Are
+Community Values
 ====================
-- Visible
 - Self Contained
 - Distributed
 - Permissive
@@ -96,11 +88,3 @@ Community Tools Are
 - Easy Exit
 - Simple
 - Beautiful
-
-Markdown
-========
-
-Feeds
-=====
-- RSS vs Atom
-
