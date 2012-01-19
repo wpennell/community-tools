@@ -2,22 +2,12 @@
 % Aaron Culich & Wendy Pennell
 % January 19, 2012
 
-Tools
-====================
-- GIT & GitHub
-- Google Suite
-- Tagging
-- IRC
-- Instant Messaging
-- Markdown
-- Feeds
-
 StackExchange
 ====================
+- High-quality Questions & Answers
 - Started as stackoverflow.com
 - Grew into StackExchange, a fast-growing network of 76+ question and answer sites
 - All the StackExchange sites use OpenID for login
-- openid.net OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords.
 - StackOverflow for Programing
 - ServerFault for Systems Administration
 - Also sites for Cooking, Home Improvement, and most important: Homebrew! :)
@@ -35,11 +25,10 @@ How StackExchange works
 - Hiring managers **will** ask you for your stackexchange & github
   accounts! (Careers 2.0)
 
-GIT & Github
+git & Github
 ============
-- git is a distributed revision control system.  git-scm.com
-- GitHub github.com is a web-based hosting service for projects that use the Git revision control system.
-- download and install git git-scm.com/download
+- git is a distributed revision control system
+- GitHub is a web-based hosting service for projects that use the Git revision control system.
 - Create a login on GitHub (requires ssh key)
 - Fork me! Fork any repository you are interested in
 - Work on your local copy from either your desktop or the web
@@ -73,6 +62,7 @@ Google Groups
 
 IRC
 ===
+- Real-time support network!
 - freenode.net
 - Vertical Communities
 - /join #mysql or #python or #makeupyourown
