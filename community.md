@@ -2,17 +2,6 @@
 % Aaron Culich & Wendy Pennell
 % January 20, 2012
 
-Community Tools Are;
-====================
-- Simple
-- Self Contained
-- Visible
-- Distributed
-- Permissive
-- Connected
-- Easy Exit
-- Beautiful
-
 Tools
 ====================
 - GIT & GitHub
@@ -39,9 +28,10 @@ How a StackExchange Account works
 - Answer Questions
 - Build a Reputation
 - Living Documentation
+- Edit tags
 
 GIT & Github
-======
+============
 - git is a distributed revision control system.  git-scm.com
 - GitHub github.com is a web-based hosting service for projects that use the Git revision control system.
 - download and install git git-scm.com/download
@@ -54,26 +44,58 @@ GIT & Github
 
 Blogs / Google Reader
 =====================
-- 
+- Reader Interface
+- Use Shortcut keys
+- Subscribe the hard way
+- Statistics
+- use Chrome
+- Install plugin
+- Subscribe the easy way
+- Tagging
+- Search blogs
+- Share Bundle
 
 
 Google Groups
 =============
 - Replaces mailing lists
+- Reduces email clutter
+- Reduces load on CalMail!
 - but can look just like a mailing list
 - subscribe to just the threads you care about
 
 Tagging
 =======
 
+Messaging
+=========
+ - IRC
+ - Instant Messaging (GoogleTalk, AIM, Yahoo, etc)
+
 IRC
 ===
 - freenode.net
+- vertical communities
+- micro communities
 
 Instant Messaging
 =================
 - Adium / Pidgin
 - iChat?
+- Rolls all protocols into one interface (even IRC)
+- Voice & Video support
+- Integration with Google Voice
+
+Community Tools Are
+====================
+- Visible
+- Self Contained
+- Distributed
+- Permissive
+- Connected
+- Easy Exit
+- Simple
+- Beautiful
 
 Markdown
 ========
@@ -81,3 +103,4 @@ Markdown
 Feeds
 =====
 - RSS vs Atom
+
