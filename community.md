@@ -18,7 +18,7 @@ How StackExchange works
 - Login with OpenID
 - Pose Questions
 - Answer Questions
-- Build Reputation
+- Build Reputation!
 - Living Documentation
 - Posing and answering questions builds your reputation
 - Reputation is **not** just fake points, it is a resume builder!
